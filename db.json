@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "titulo": "Celulart",
+      "categoria": "Eletrônico",
+      "modelo": "X10",
+      "preco": 6525.99,
+      "quantidade": "10",
+      "unidade": "PT",
+      "fornecedor": "Apple",
+      "img": "https://d1j48ryyrcdvj8.cloudfront.net/Custom/Content/Products/58/75/5875_smartphone-apple-iphone-11-128gb-preto_z1_637667034651659941.jpg"
+    },
+    {
+      "titulo": "Rrr",
+      "categoria": "Rrr",
+      "modelo": "Fff",
+      "preco": 525,
+      "quantidade": "55",
+      "unidade": "CX",
+      "fornecedor": "Ssss",
+      "img": "file:///data/user/0/com.controle_estoque/cache/rn_image_picker_lib_temp_7e1c65e4-eebf-42e0-b4e5-12c3cb69d77f.jpg",
+      "id": "6le5Q3m"
+    },
+    {
+      "titulo": "Rrrr",
+      "categoria": "Cccc",
+      "modelo": "Cccc",
+      "preco": 563,
+      "quantidade": "1",
+      "unidade": "UN",
+      "fornecedor": "Ffff",
+      "img": "file:///data/user/0/com.controle_estoque/cache/rn_image_picker_lib_temp_5382b09e-9763-4f0a-8625-b7f1eaf35de0.jpg",
+      "id": "GvWrDLG"
+    },
+    {
+      "titulo": "Eee",
+      "categoria": "",
+      "modelo": "",
+      "preco": 555,
+      "quantidade": "22",
+      "unidade": null,
+      "img": "",
+      "id": "ASDDXMF"
+    },
+    {
+      "titulo": "Uuuuu",
+      "categoria": "",
+      "modelo": "",
+      "preco": 333,
+      "unidade": null,
+      "img": "",
+      "id": "LuKKE2K"
+    },
+    {
+      "titulo": "Yyyy",
+      "categoria": "",
+      "modelo": "",
+      "preco": 2222,
+      "unidade": null,
+      "img": "file:///data/user/0/com.controle_estoque/cache/rn_image_picker_lib_temp_21192d19-959e-4349-bad3-de7d5e8342bb.jpg",
+      "id": "nyAtBO_"
+    }
+  ]
+}
